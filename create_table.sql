@@ -1,0 +1,1 @@
+CREATE TABLE videos(city char(20), link char(200))
